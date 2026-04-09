@@ -50,6 +50,7 @@ Explore insights through visualizations
 📌 Conclusion
 
 This dashboard provides a comprehensive view of road accident data, helping stakeholders identify patterns, improve safety measures, and make data-driven decisions.
+[Click to Download Dataset](https://docs.google.com/spreadsheets/d/12WEyvrBXyuFnkzaVWkCR6CPUeocNhV68/edit?gid=882687017#gid=882687017)
 
 🙌 Author
 
